@@ -1,6 +1,6 @@
 # Trend_Predicting
 
-Contributors
-Hyeonwoo Yoo : hyeon95y@gmail.com
-? : ?
-? : ?
+Contributors</br>
+Hyeonwoo Yoo : hyeon95y@gmail.com</br>
+? : ?</br>
+? : ?</br>
